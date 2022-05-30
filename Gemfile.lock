@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.2)
-    bcrypt (3.1.17)
+    bcrypt (3.1.18)
     daemons (1.4.1)
     eventmachine (1.2.7)
     haml (5.2.2)
