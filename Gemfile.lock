@@ -9,7 +9,7 @@ GEM
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
-    jwt (2.4.1)
+    jwt (2.6.0)
     multi_json (1.15.0)
     mustermann (2.0.2)
       ruby2_keywords (~> 0.0.1)
